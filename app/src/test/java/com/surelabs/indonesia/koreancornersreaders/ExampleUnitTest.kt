@@ -1,4 +1,4 @@
-package com.surelabs.indonesia.recyclerviewpagination
+package com.surelabs.indonesia.koreancornersreaders
 
 import org.junit.Test
 
